@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+int intro()
 {
     char gender = 'M';
     // Data Types Strings,
