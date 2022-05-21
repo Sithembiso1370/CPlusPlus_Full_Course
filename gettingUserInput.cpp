@@ -5,7 +5,7 @@
 //Google Documentation for c++ getting user input methods
 using namespace std;
 
-int main()
+int userInp()
 {
     int age;
     cout << "Enter you age : " << endl;
